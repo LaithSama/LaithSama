@@ -67,31 +67,13 @@ class Laith:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TonPseudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_radius=12"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TonPseudo&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌱 En ce moment j'explore
 
 <table align="center">
   <tr>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/-Game%20Dev-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"/><br/>
-      <sub>2D/3D avec Godot & Python</sub>
+      <sub>2D/3D avec Godot & Unity</sub>
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/><br/>
@@ -103,34 +85,6 @@ class Laith:
     </td>
   </tr>
 </table>
-
----
-
-## 🎮 Ce qui me définit
-
-<div align="center">
-
-| 🎮 Gaming | 🖥️ Tech | 🎌 Geek Culture |
-|:---------:|:-------:|:---------------:|
-| Mécaniques de jeu | Optimisation hardware | Anime & manga |
-| Game design | Systèmes complexes | Narratives vidéoludiques |
-| Setups gaming | Architecture logicielle | Univers SF & Fantasy |
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TonPseudo/TonPseudo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TonPseudo/TonPseudo/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TonPseudo/TonPseudo/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
